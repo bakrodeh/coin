@@ -1,0 +1,10 @@
+{
+  "name": "DevSol",
+  "symbol": "DS",
+  "description": "Small description of your token.",
+  "image": "https://arweave.net/image-url-from-above",
+  "creator": {
+    "name": "Baker Odeh",
+    "site": "https://www.vixacoin.com",
+  }
+}
