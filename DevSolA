@@ -1,0 +1,10 @@
+{
+  "name": "DevSolA",
+  "symbol": "DSA",
+  "description": "Small description of your token.",
+  "image": "https://raw.githubusercontent.com/bakrodeh/coin/refs/heads/mainjab/logo_coin.png",
+  "creator": {
+    "name": "Baker Odeh",
+    "site": "https://www.vixacoin.com",
+  }
+}
