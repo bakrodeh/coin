@@ -1,0 +1,30 @@
+{
+  "name": "DevSol",
+  "symbol": "DS",
+  "description": "Updated description of your token.",
+  "image": "https://raw.githubusercontent.com/bakrodeh/coin/refs/heads/mainjab/logo_coin.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Version",
+      "value": "2.0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/bakrodeh/coin/refs/heads/mainjab/logo_coin.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "YourPublicKeyHere",
+        "share": 100
+      }
+    ]
+  }
+}
