@@ -1,0 +1,23 @@
+{
+  "name": "JabCoin",
+  "symbol": "JAB",
+  "image": "https://gateway.irys.xyz/53K4VsNreQtzqJwS_MmdFuQA7Uqwvehabnv3co0e0DU",
+  "description": "Hello World",
+  "website": "https://google.com",
+  "twitter": "https://google.com",
+  "telegram": "https://google.com",
+  "discord": "https://google.com",
+  "showName": true,
+  "extensions": {
+    "website": "https://google.com",
+    "twitter": "https://google.com",
+    "telegram": "https://google.com",
+    "discord": "https://google.com"
+  },
+  "tags": [],
+  "creator": {
+    "name": "Baker Odeh",
+    "site": "https://google.com"
+  },
+  "createdOn": "https://google.com"
+}
