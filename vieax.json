@@ -1,0 +1,23 @@
+{
+  "name": "Vieax",
+  "symbol": "VIAX",
+  "image": "https://gateway.irys.xyz/53K4VsNreQtzqJwS_MmdFuQA7Uqwvehabnv3co0e0DU",
+  "description": "Vieax for crypto gaming network",
+  "website": "https://vieax.com",
+  "twitter": "https://x.com/vieaxgame",
+  "telegram": "https://t.me/vieaxgame",
+  "discord": "https://discord.com/channels/@vieaxgame",
+  "showName": true,
+  "extensions": {
+  "website": "https://vieax.com",
+  "twitter": "https://x.com/vieaxgame",
+  "telegram": "https://t.me/vieaxgame",
+  "discord": "https://discord.com/channels/@vieaxgame"
+  },
+  "tags": [],
+  "creator": {
+    "name": "Baker Odeh",
+    "site": "https://vieax.com"
+  },
+  "createdOn": "https://vieax.com"
+}
